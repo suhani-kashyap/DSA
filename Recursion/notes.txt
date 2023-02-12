@@ -1,0 +1,6 @@
+A function calls itself to solve a problem. Any problem that can be solved by recursion 
+can be solved by iteration.
+
+Call the function on a "simpler" input. 
+The base case stops the recursive calls.
+If there is no base case then we will end up in an infinite loop.
